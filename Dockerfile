@@ -8,4 +8,4 @@ COPY /target/classes /usrapp/bin/classes
 
  COPY /target/dependency /usrapp/bin/dependency/
 
-CMD ["java","-cp","./classes:./dependency/*","edu.eci.arep.sparkdockerdemo.SparkWebApp"]
+CMD ["java","-cp","./classes:./dependency/*","edu.eci.arep.sparkD2.App"]

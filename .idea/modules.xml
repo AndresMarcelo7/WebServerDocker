@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SparkDockerDemo.iml" filepath="$PROJECT_DIR$/SparkDockerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkD2.iml" filepath="$PROJECT_DIR$/SparkD2.iml" />
     </modules>
   </component>
 </project>

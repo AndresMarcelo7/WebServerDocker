@@ -1,2 +1,9 @@
-edu\eci\arep\sparkdockerdemo\App.class
-edu\eci\arep\sparkdockerdemo\SparkWebApp.class
+edu\eci\arep\sparkD2\sparkD.class
+edu\eci\arep\sparkD2\examples\SparkDExample.class
+edu\eci\arep\sparkD2\httpserver\Request.class
+edu\eci\arep\sparkD2\urlutils\URLReader.class
+edu\eci\arep\sparkD2\App.class
+edu\eci\arep\sparkD2\httpserver\Response.class
+edu\eci\arep\sparkD2\httpserver\HttpServer.class
+edu\eci\arep\sparkD2\data\DBConnection.class
+edu\eci\arep\sparkD2\urlutils\URLScanner.class

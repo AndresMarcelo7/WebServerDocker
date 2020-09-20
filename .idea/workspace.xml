@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29cf2eb5-32f0-489c-b1bf-07ac8619f2ef" name="Default Changelist" comment="" />
+    <list default="true" id="9efa7ff2-6d77-4499-a805-d19b6b0ef74a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +10,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,7 +24,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1hNkRSyfOSPaABZfVuiibIWRO84" />
+  <component name="ProjectId" id="1gQQgKMWfjmqfvmD8i153YqL58F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,20 +35,50 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SparkD2" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager">
-    <configuration name="SparkWebApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.eci.arep.sparkdockerdemo.SparkWebApp" />
-      <module name="SparkDockerDemo" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Andres Marcelo\Universidad\AREP\LABS\LAB5\SparkD2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.eci.arep.sparkD2.App" />
+      <module name="SparkD2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.eci.arep.sparkdockerdemo.*" />
+          <option name="PATTERN" value="edu.eci.arep.sparkD2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.eci.arep.sparkD2.httpserver.HttpServer" />
+      <module name="SparkD2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.arep.sparkD2.httpserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.eci.arep.sparkD2.urlutils.URLReader" />
+      <module name="SparkD2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.arep.sparkD2.urlutils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,7 +88,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SparkWebApp" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.HttpServer" />
+        <item itemvalue="Application.URLReader" />
       </list>
     </recent_temporary>
   </component>
@@ -63,16 +99,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="29cf2eb5-32f0-489c-b1bf-07ac8619f2ef" name="Default Changelist" comment="" />
-      <created>1599858929554</created>
+      <changelist id="9efa7ff2-6d77-4499-a805-d19b6b0ef74a" name="Default Changelist" comment="" />
+      <created>1598044447765</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599858929554</updated>
-      <workItem from="1599858935709" duration="759000" />
-      <workItem from="1599859988032" duration="5287000" />
-      <workItem from="1600058010134" duration="612000" />
-      <workItem from="1600111458698" duration="1771000" />
-      <workItem from="1600113493630" duration="10448000" />
+      <updated>1598044447765</updated>
+      <workItem from="1598044454707" duration="7451000" />
+      <workItem from="1598242803838" duration="4921000" />
+      <workItem from="1598248635788" duration="15000" />
+      <workItem from="1598248782438" duration="2951000" />
+      <workItem from="1598303306334" duration="18505000" />
+      <workItem from="1598370836535" duration="20204000" />
+      <workItem from="1598585006693" duration="16425000" />
+      <workItem from="1598643068296" duration="659000" />
+      <workItem from="1598647433196" duration="1207000" />
+      <workItem from="1598659871879" duration="2746000" />
+      <workItem from="1598673918300" duration="3049000" />
+      <workItem from="1598906561063" duration="28568000" />
+      <workItem from="1598989479691" duration="16988000" />
+      <workItem from="1599023587640" duration="705000" />
+      <workItem from="1599147919419" duration="5058000" />
+      <workItem from="1599246889596" duration="45000" />
+      <workItem from="1599422808238" duration="721000" />
+      <workItem from="1600121819604" duration="11004000" />
+      <workItem from="1600152622078" duration="754000" />
+      <workItem from="1600187640296" duration="9127000" />
     </task>
     <servers />
   </component>
@@ -80,37 +131,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Project_Structure" timestamp="1599859222998">
+    <state x="137" y="20" width="1092" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598919950115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1599859222998" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1600121813004">
+    <state x="137" y="20" width="1092" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598919950115" />
+    <state x="434" y="155" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598920974597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600121813004" />
-    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1599859635321">
+    <state x="434" y="155" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598920974597" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1598940860947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599859635321" />
-    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1599859635320">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598940860947" />
+    <state x="436" y="247" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598420669336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599859635320" />
-    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1599859635319">
+    <state x="436" y="247" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1598420669336" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1599246925343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599859635319" />
-    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1599859635321">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599246925343" />
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1600131790849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599859635321" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1599859215209">
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600131790849" />
+    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1600131790849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599859215209" />
-    <state x="364" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1600113692112">
+    <state width="1323" height="118" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600131790849" />
+    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1600131790849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="364" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600113692112" />
+    <state width="1323" height="118" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600131790849" />
+    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1600131790849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600131790849" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1598313435624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1598313435624" />
+    <state x="767" y="0" key="RollbackChangesDialog" timestamp="1598585978448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="767" y="0" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598585978448" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1598046469166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598046469166" />
+    <state x="364" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599246891924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="364" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599246891924" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598938046537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598938046537" />
   </component>
 </project>
