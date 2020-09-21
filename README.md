@@ -6,4 +6,4 @@ This Server circle CI status:
 
 Docker Image available [here](https://hub.docker.com/repository/docker/andresmarcelo7/arep5web)
 
-All project Documentation and architecture  [here](https://github.com/AndresMarcelo7/LAB5-AREP)
+All project Documentation and architecture  [here](https://github.com/AndresMarcelo7/AREP-LAB5)
